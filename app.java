@@ -4,4 +4,6 @@ num2 = int(input("Enter second number: "))
 result = num1 + num2
 
 print("Total:", result)
+  print "Hellow Tom"
+  
 
